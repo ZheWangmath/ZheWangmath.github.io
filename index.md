@@ -39,10 +39,10 @@
 
 ## Publications
 
-1. Zhenxin Liu, **Zhe Wang\***. Wasserstein convergence rates in the invariance principle for deterministic dynamical systems. *Ergodic Theory and Dynamical Systems*, 44 (2024), 1172-1191.
-2. Zhenxin Liu, **Zhe Wang\***. Wasserstein convergence rates in the invariance principle for sequential dynamical systems. *Nonlinearity*, 37 (2024), 125019, 27pp.
-3. Ian Melbourne, **Zhe Wang\***. Wasserstein convergence rates in the invariance principle for nonuniformly hyperbolic flows. To appear in *Acta Mathematica Sinica, English Series*.
-4. Zhenxin Liu, Benoit Saussol, Sandro Vaienti, **Zhe Wang\***. Quenched invariance principle with a rate for random dynamical systems. To appear in *Communications in Mathematical Physics*.
+1. Zhenxin Liu, **Zhe Wang\***. Wasserstein convergence rates in the invariance principle for deterministic dynamical systems. **Ergodic Theory and Dynamical Systems**, 44 (2024), 1172-1191.
+2. Zhenxin Liu, **Zhe Wang\***. Wasserstein convergence rates in the invariance principle for sequential dynamical systems. **Nonlinearity**, 37 (2024), 125019, 27pp.
+3. Ian Melbourne, **Zhe Wang\***. Wasserstein convergence rates in the invariance principle for nonuniformly hyperbolic flows. To appear in **Acta Mathematica Sinica, English Series**.
+4. Zhenxin Liu, Benoit Saussol, Sandro Vaienti, **Zhe Wang\***. Quenched invariance principle with a rate for random dynamical systems. To appear in **Communications in Mathematical Physics**.
 
 *注：\* 代表通讯作者。*
 
