@@ -1,5 +1,6 @@
 ---
-# Zhe Wang's Homepage
+layout: default
+title: Zhe Wang's Homepage
 ---
 
 <img src="picture1.jpg" alt="Image" width="200" style="float: right; margin-left: 20px; margin-bottom: 10px;">
