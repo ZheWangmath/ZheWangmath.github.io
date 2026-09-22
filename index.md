@@ -1,39 +1,35 @@
 ---
-title: Zhe Wang - CV
+# Zhe Wang's Homepage
 ---
 
-![Image](picture1.jpg)
-
-# Zhe Wang
+<img src="picture1.jpg" alt="Image" width="200" style="float: right; margin-left: 20px; margin-bottom: 10px;">
 
 ## Contact Information
 
 - **Name:** Zhe Wang
-- **Date of Birth:** November 26, 1995
 - **Email:** zwangmath@hotmail.com
-- **Phone:** +86 17824823026
 - **Address:** School of Mathematical Sciences, Dalian University of Technology, Dalian 116024, China
 
 ## Education
 
-- **Ph.D. in Applied Mathematics** | Sep. 2020 - Dec. 2024
-  Dalian University of Technology, China
+- **Ph.D. in Applied Mathematics** | Sep. 2020 - Dec. 2024, 
+  Dalian University of Technology, China, 
   Supervisor: Zhenxin Liu
 
-- **Ph.D. joint training program** | Dec. 2023 - Nov. 2024
-  Aix-Marseille University, I2M, France
+- **Ph.D. joint training program** | Dec. 2023 - Nov. 2024, 
+  Aix-Marseille University, I2M, France, 
   Supervisors: Benoit Saussol; Sandro Vaienti
 
-- **M.S. in Applied Mathematics** | Sep. 2018 - Jun. 2020
-  Dalian University of Technology, China
+- **M.S. in Applied Mathematics** | Sep. 2018 - Jun. 2020, 
+  Dalian University of Technology, China, 
   Supervisor: Zhenxin Liu
 
-- **B.S. in Mathematics and Applied Mathematics** | Sep. 2014 - Jun. 2018
+- **B.S. in Mathematics and Applied Mathematics** | Sep. 2014 - Jun. 2018, 
   Northeast Normal University, China
 
 ## Academic Positions
 
-- **Postdoctoral Fellow** | Jan. 2025 - Now
+- **Postdoctoral Fellow** | Jan. 2025 - Now, 
   Dalian University of Technology, China
 
 ## Research Interests
